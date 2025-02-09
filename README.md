@@ -1,12 +1,12 @@
-# Hi I'm working
+🌟 Hi, I'm working! 🚀
 
-Welcome to my GitHub! Here I share my world of code, innovative projects and lots of things that inspire me.
+Welcome to my GitHub! Here I share my world of code, innovative projects, and lots of things that inspire me.
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+Web+%26+Mobile;Always+learning+new+technologies!" alt="Typing SVG" /> </p>
 
 ---
 
-## My GitHub Statistics
-
-[![Gaujap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaujap&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaujap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaujap&show_icons=true&theme=radical&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaujap&layout=compact&theme=radical" /> </div>
 
 ---
 
