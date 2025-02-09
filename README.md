@@ -1,3 +1,11 @@
+- **Visitor Count**  
+  [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Gaujap.Gaujap)](https://github.com/Gaujap/Gaujap)
+
+- **Trophées GitHub**  
+  [![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Gaujap&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 # Hi I'm working
 
 Welcome to my GitHub! Here I share my world of code, innovative projects and lots of things that inspire me.
