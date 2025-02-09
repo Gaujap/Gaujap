@@ -14,6 +14,7 @@ Welcome to my GitHub! Here I share my world of code, innovative projects, and lo
 </div>
 
 ---
+<br/>
 
 ## ⚡ Skills
 
@@ -41,11 +42,21 @@ Welcome to my GitHub! Here I share my world of code, innovative projects, and lo
 ---
 
 ## 🌍 Stay Connected
-<p align="center"> <a href="https://www.linkedin.com/in/gabriel-debarnot/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://ilarrive.com"> <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge" /> </a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-debarnot/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1264602886688608417" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1264602886688608417" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=2C2F33&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"  />
+  </a>
+</div>
 
+###
 ---
 
-## 🐍 Contribution Graph
 <p align="center"> <img src="https://github.com/Gaujap/Gaujap/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" /> </p>
 
 <!---
