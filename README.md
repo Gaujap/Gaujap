@@ -1,7 +1,6 @@
-# Hi I'm Busy
+# Hi I'm working
 
-Bienvenue sur mon GitHub ! Ici, je partage mon univers de code, de projets innovants et de petites touches d'art geek.  
-Amuse-toi, prends ce qui te plaît et adapte-le à ta manière.
+Welcome to my GitHub! Here I share my world of code, innovative projects and lots of things that inspire me.
 
 ---
 
@@ -12,7 +11,7 @@ Amuse-toi, prends ce qui te plaît et adapte-le à ta manière.
 
 ---
 
-## 2. Mes Statistiques GitHub
+## 1. My GitHub Statistics
 
 [![Gaujap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaujap&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,11 +19,11 @@ Amuse-toi, prends ce qui te plaît et adapte-le à ta manière.
 
 ---
 
-## 3. Mes Trophées
+*## 3. Mes Trophées
 
 [![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Gaujap&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+---*
 
 ## 4. Citation du Jour
 
