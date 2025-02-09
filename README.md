@@ -6,9 +6,8 @@ Welcome to my GitHub! Here I share my world of code, innovative projects and lot
 
 ## My GitHub Statistics
 
-[![Gaujap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaujap&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaujap's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaujap&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaujap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaujap&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
